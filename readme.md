@@ -10,7 +10,7 @@ This project is a React Native application designed to control a car powered by 
 
 ## Screenshots
 
-| Screenshot 1              | Screenshot 2               |
+| Screenshot                | Screenshot                 |
 |---------------------------|----------------------------|
-| ![Home Screen](./screenshots/1.png) | ![Controls Screen](./screenshots/2.png) |
+| ![Home Screen](./screenshots/1.jpg) | ![Controls Screen](./screenshots/2.jgp) |
 
