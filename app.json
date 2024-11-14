@@ -1,24 +1,26 @@
 {
   "expo": {
-    "name": "ProjectFuncpro",
-    "slug": "ProjectFuncpro",
+    "name": "UKM Loby RoboCar",
+    "slug": "NativeRobocar",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "icon": "./assets/splash.png",
+    "userInterfaceStyle": "dark",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#111827"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ukmloby.nativerobocar"
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "foregroundImage": "./assets/adaptasi.png",
+        "backgroundColor": "#111827"
+      },
+      "package": "com.ukmloby.nativerobocar"
     },
     "web": {
       "bundler": "metro",
