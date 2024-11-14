@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "ProjectFuncpro.app"
-               BlueprintName = "ProjectFuncpro"
-               ReferencedContainer = "container:ProjectFuncpro.xcodeproj">
+               BuildableName = "UKMLobyRoboCar.app"
+               BlueprintName = "UKMLobyRoboCar"
+               ReferencedContainer = "container:UKMLobyRoboCar.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "ProjectFuncproTests.xctest"
-               BlueprintName = "ProjectFuncproTests"
-               ReferencedContainer = "container:ProjectFuncpro.xcodeproj">
+               BuildableName = "UKMLobyRoboCarTests.xctest"
+               BlueprintName = "UKMLobyRoboCarTests"
+               ReferencedContainer = "container:UKMLobyRoboCar.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ProjectFuncpro.app"
-            BlueprintName = "ProjectFuncpro"
-            ReferencedContainer = "container:ProjectFuncpro.xcodeproj">
+            BuildableName = "UKMLobyRoboCar.app"
+            BlueprintName = "UKMLobyRoboCar"
+            ReferencedContainer = "container:UKMLobyRoboCar.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ProjectFuncpro.app"
-            BlueprintName = "ProjectFuncpro"
-            ReferencedContainer = "container:ProjectFuncpro.xcodeproj">
+            BuildableName = "UKMLobyRoboCar.app"
+            BlueprintName = "UKMLobyRoboCar"
+            ReferencedContainer = "container:UKMLobyRoboCar.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

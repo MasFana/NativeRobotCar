@@ -112,7 +112,6 @@ android {
     namespace 'com.ukmloby.nativerobocar'
     defaultConfig {
         applicationId 'com.ukmloby.nativerobocar'
-        resConfigs "en" // Keep only specific locales (e.g., "en" for English)
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
@@ -155,6 +154,7 @@ android {
             universalApk false  // Generate separate APKs for each architecture
         }
     }
+
 }
 
 // Apply static values from `gradle.properties` to the `android.packagingOptions`
